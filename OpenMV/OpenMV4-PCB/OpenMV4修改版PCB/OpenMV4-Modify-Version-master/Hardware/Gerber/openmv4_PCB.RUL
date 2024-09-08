@@ -1,0 +1,8 @@
+DRC Rules Export File for PCB: C:\Users\12566\Desktop\ÁÙÊ±ÎÄ¼þ¼Ð\OpenMV4\openmv4_PCB.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=6.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=6.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=2.50
+RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=15.00
+RuleKind=Clearance|RuleName=Clearance_2|Scope=Board|Minimum=8.00
+RuleKind=Width|RuleName=Width_1|Scope=Board|Minimum=10.00

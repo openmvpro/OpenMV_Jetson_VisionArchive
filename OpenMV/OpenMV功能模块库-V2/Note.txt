@@ -1,0 +1,39 @@
+main.py     		此为一个多任务选择框架，可由以下函数填充
+
+Find_Line			巡线 
+
+Find_ApriTag		寻APriTag
+
+Find_Angle 		巡曲线 返回 x像素 及 角度
+
+Find_Black_Point		识别黑点	返回中心像素坐标
+
+Find_QR_Code.py		识别二维码  读取信息			
+
+Timer_Take_Photo.py	定时拍照
+
+Find_Color_Blob 		颜色识别	返回中心像素点   
+		你可以使用OpenMV在图像中同时检测多达16种颜色  实际上永远不会想要找到超过4种颜色
+Find_Bar_Code		识别条形码  读取信息
+
+
+
+OPENMV3
+RGB565        	max:	640*480
+GRAYSCALE 	max:  	320*240
+读取速度最快 160*120
+
+
+颜色识别  		QVGA
+二维码识别  	QVGA QQVGA
+ApriTag 		QQVGA
+形状  		QQVGA
+
+拍照		VGA
+		灰度  QVGA
+
+
+
+ApriTag     100
+红色	91
+

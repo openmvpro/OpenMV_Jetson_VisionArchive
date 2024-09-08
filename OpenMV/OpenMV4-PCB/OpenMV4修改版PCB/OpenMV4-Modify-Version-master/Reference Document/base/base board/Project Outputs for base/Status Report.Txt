@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [base.PrjPcb]
+   Generated File[Pick Place for base.txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 21:23:24 On 2019/11/11

@@ -1,0 +1,33 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\12566\Desktop\ÁÙÊ±ÎÄ¼þ¼Ð\OpenMV4\openmv4_PCB.PcbDoc
+Date     : 2019/11/26
+Time     : 12:41:38
+
+Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=8mil) (IsVia),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=15mil) (InPoly),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=6mil) (Max=20mil) (Preferred=6mil) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=60mil) (Preferred=15mil) (InNetClass('POWER'))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Waived Violations : 0
+Time Elapsed        : 00:00:00

@@ -1,0 +1,11 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [OpenMV4.PrjPcb]
+   Generated File[Pick Place for openmv4_PCB.txt]
+   Generated File[Pick Place for openmv4_PCB.csv]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 12:50:35 On 2019/11/26

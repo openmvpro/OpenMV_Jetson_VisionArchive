@@ -1,0 +1,73 @@
+Altium Designer Pick and Place Locations
+C:\Users\12566\Desktop\ÁÙÊ±ÎÄ¼þ¼Ð\OpenMV4\REF\base\base board\Project Outputs for base\Pick Place for base.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       11/11/19
+Time:       21:23
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment          Layer       Footprint            Center-X(mil) Center-Y(mil) Rotation Description 
+JP3        ""               TopLayer    1X06                 1185.000      510.000       270      ""          
+R5         100K             TopLayer    0603-RES             500.000       220.000       270      ""          
+C1         1uF              TopLayer    0603-CAP             1265.000      905.000       0        ""          
+X3         ""               TopLayer    DF12-36-DS           700.000       1600.000      0        ""          
+C15        47uF             TopLayer    EIA3216              1335.000      1160.000      270      ""          
+U$6        ""               TopLayer    OMV-LOGO-BIG         0.000         0.000         0        ""          
+C14        47uF             TopLayer    EIA3216              1010.000      1640.000      90       ""          
+C12        10uF             TopLayer    0805                 1170.000      1455.000      90       ""          
+C7         0.1uF            TopLayer    0603-CAP             1140.000      1355.000      0        ""          
+C3         10uF             TopLayer    0805                 930.000       1455.000      90       ""          
+U5         TPS731XX         TopLayer    SOT23-5              1050.000      1450.000      270      ""          
+M2         ""               TopLayer    9774030151R          1300.000      1425.000      0        ""          
+M1         ""               TopLayer    9774030151R          100.000       1425.000      0        ""          
+R4         4.7K             TopLayer    0603-RES             415.000       1600.000      90       ""          
+R3         4.7K             TopLayer    0603-RES             355.000       1600.000      90       ""          
+X2         USD-1040310811   BottomLayer 1040310811           1152.070      1069.075      270      ""          
+X4         ""               TopLayer    JST-PH-2-THM-RA      280.000       250.000       180      ""          
+X1         ""               TopLayer    MICROUSB-RIGHT       1050.000      109.840       0        ""          
+U8         PAM2305AABADJ    TopLayer    TSOT25               595.000       180.000       180      ""          
+R10        453K             TopLayer    0603-RES             500.000       95.000        270      ""          
+D3         SDM2U20SD3-7     TopLayer    SOD-323              795.000       40.000        180      ""          
+R9         10K              TopLayer    0603-RES             690.000       70.000        270      ""          
+Q2         Si2301BDS        TopLayer    SOT23-3              795.000       161.970       0        ""          
+L3         4.7uH/1.4A       TopLayer    1007                 595.000       50.000        270      ""          
+C2         22uF             TopLayer    0805                 435.000       90.000        270      ""          
+C44        22uF             TopLayer    0805                 690.000       215.000       90       ""          
+L2         MPZ1608S181ATAH0 TopLayer    0603                 910.000       255.000       180      ""          
+C11        47uF             TopLayer    EIA3216              315.000       995.000       270      ""          
+LED3       VSMY12850        TopLayer    LED-1206             285.000       1650.000      270      ""          
+LED2       VSMY12850        TopLayer    LED-1206             1115.000      1650.000      90       ""          
+RN1        ""               TopLayer    EXBV8V               252.500       1185.000      270      ""          
+U1         STM32H743VIT6    TopLayer    LQFP100              700.000       645.000       0        ""          
+U$4        ""               TopLayer    OMV-LOGO-SMALL       0.000         0.000         0        ""          
+U$2        ""               BottomLayer ROHS                 0.000         0.000         180      ""          
+U$1        ""               BottomLayer WEEE                 0.000         0.000         180      ""          
+U$3        ""               BottomLayer OMV-LOGO             0.000         0.000         180      ""          
+R2         10K              TopLayer    0603-RES             40.000        985.000       270      ""          
+R1         10R              TopLayer    0603-RES             230.000       985.000       270      ""          
+JP1        ""               TopLayer    1X08                 65.000        410.000       270      ""          
+JP2        ""               TopLayer    1X08                 1335.000      410.000       270      ""          
+C49        2.2uF            TopLayer    0603-CAP             785.000       255.000       180      ""          
+C48        2.2uF            TopLayer    0603-CAP             1150.000      845.000       0        ""          
+LOGO1      ""               TopLayer    OSHW_FILLX100_NOTEXT 0.000         0.000         0        ""          
+Y1         7S-12.000MAHE-T  TopLayer    CRYSTAL-2.5X2.0      234.015       660.985       270      ""          
+LED1       LED-TRICOLOR     TopLayer    LED-TRICOLOR-SMD-MF  85.000        1185.000      0        ""          
+Q1         BSS138           TopLayer    SOT23-3              135.000       986.970       0        ""          
+L1         MPZ1608S181ATAH0 TopLayer    0603                 195.000       410.000       270      ""          
+RN2        10K              TopLayer    EXBV8V               1120.000      1240.000      180      ""          
+RN3        10K              TopLayer    EXBV8V               1120.000      985.000       0        ""          
+H1         ""               TopLayer    2,8-PAD              120.000       1630.000      90       ""          
+C10        0.1uF            TopLayer    0603-CAP             1245.000      1145.000      90       ""          
+C13        0.1uF            TopLayer    0603-CAP             325.000       780.000       90       ""          
+C9         0.1uF            TopLayer    0603-CAP             1005.000      985.000       90       ""          
+C8         0.1uF            TopLayer    0603-CAP             1005.000      305.000       270      ""          
+C6         0.1uF            TopLayer    0603-CAP             400.000       985.000       90       ""          
+C5         0.1uF            TopLayer    0603-CAP             260.000       410.000       270      ""          
+C4         1uF              TopLayer    0603-CAP             325.000       410.000       270      ""          
+C41        12pF             TopLayer    0603-CAP             230.000       770.000       180      ""          
+C40        12pF             TopLayer    0603-CAP             230.000       550.000       0        ""          
+H2         ""               TopLayer    2,8-PAD              1280.000      1630.000      270      ""          

@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\12566\Desktop\ÁÙÊ±ÎÄ¼þ¼Ð\OpenMV4\openmv4_PCB.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=openmv4_pcb-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=openmv4_pcb-slotholes.txt|DrillLayers=gtl,gbl

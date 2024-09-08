@@ -1,0 +1,73 @@
+Altium Designer Pick and Place Locations,,,,,,,
+C:\Users\12566\Desktop\ÁÙÊ±ÎÄ¼þ¼Ð\OpenMV4\Project Outputs for OpenMV4\Pick Place for openmv4_PCB.csv,,,,,,,
+,,,,,,,
+========================================================================================================================,,,,,,,
+File Design Information:,,,,,,,
+,,,,,,,
+Date:       26/11/19,,,,,,,
+Time:       12:50,,,,,,,
+Revision:   Not in VersionControl,,,,,,,
+Variant:    No variations,,,,,,,
+Units used: mil,,,,,,,
+,,,,,,,
+Designator,Comment,Layer,Footprint,Center-X(mil),Center-Y(mil),Rotation,Description
+C1,1uF,TopLayer,C0603,1265,905,0,
+C2,22uF,TopLayer,C0805,435,95,270,
+C3,10uF,TopLayer,C0805,1265,1225,180,
+C4,1uF,TopLayer,C0603,325,410,270,"CapacitorStandard 0603 ceramic capacitor, and 0.1 leaded capacitor."""
+C5,0.1uF,TopLayer,C0603,260,410,270,"CapacitorStandard 0603 ceramic capacitor, and 0.1 leaded capacitor."""
+C6,0.1uF,TopLayer,C0603,400,985,90,"CapacitorStandard 0603 ceramic capacitor, and 0.1 leaded capacitor."""
+C7,0.1uF,TopLayer,C0603,1365,1435,90,"CapacitorStandard 0603 ceramic capacitor, and 0.1 leaded capacitor."""
+C8,0.1uF,TopLayer,C0603,1005,305,270,"CapacitorStandard 0603 ceramic capacitor, and 0.1 leaded capacitor."""
+C9,0.1uF,TopLayer,C0603,1025,985,90,"CapacitorStandard 0603 ceramic capacitor, and 0.1 leaded capacitor."""
+C10,0.1uF,TopLayer,C0603,715,1050,180,"CapacitorStandard 0603 ceramic capacitor, and 0.1 leaded capacitor."""
+C11,47uF,TopLayer,EIA3216,315,995,270,"CapacitorStandard 0603 ceramic capacitor, and 0.1 leaded capacitor."""
+C12,10uF,TopLayer,C0805,1265,1465,180,"CapacitorStandard 0603 ceramic capacitor, and 0.1 leaded capacitor."""
+C13,0.1uF,TopLayer,C0603,318,806.512,90,"CapacitorStandard 0603 ceramic capacitor, and 0.1 leaded capacitor."""
+C14,47uF,TopLayer,EIA3216,490,1575.12,270,"Capacitor PolarizedThese are standard SMD and PTH capacitors. Normally 10uF, 47uF, and 100uF in electrolytic and tantalum varieties. Always verify the external diameter of the through hole cap, it varies with capacity, voltage, and manufacturer. The EIA d"
+C16,0.1uF,TopLayer,C0603,553,1346.488,270,"CapacitorStandard 0603 ceramic capacitor, and 0.1 leaded capacitor."""
+C17,22uF,TopLayer,C0805,488,1347,270,"CapacitorStandard 0603 ceramic capacitor, and 0.1 leaded capacitor."""
+C18,4.7uF,TopLayer,C0603,865,1515.512,90,"Capacitor PolarizedThese are standard SMD and PTH capacitors. Normally 10uF, 47uF, and 100uF in electrolytic and tantalum varieties. Always verify the external diameter of the through hole cap, it varies with capacity, voltage, and manufacturer. The EIA d"
+C19,0.1uF,TopLayer,C0603,670,1605.512,90,"CapacitorStandard 0603 ceramic capacitor, and 0.1 leaded capacitor."""
+C20,0.1uF,TopLayer,C0603,890.512,1420,360,"CapacitorStandard 0603 ceramic capacitor, and 0.1 leaded capacitor."""
+C21,0.1uF,TopLayer,C0603,755,1605,90,"CapacitorStandard 0603 ceramic capacitor, and 0.1 leaded capacitor."""
+C40,12pF,TopLayer,C0603,230,550,360,"CapacitorStandard 0603 ceramic capacitor, and 0.1 leaded capacitor."""
+C41,12pF,TopLayer,C0603,230,770,180,"CapacitorStandard 0603 ceramic capacitor, and 0.1 leaded capacitor."""
+C44,22uF,TopLayer,C0805,690,215,90,"CapacitorStandard 0603 ceramic capacitor, and 0.1 leaded capacitor."""
+C48,2.2uF,TopLayer,C0603,1150,845,360,"CapacitorStandard 0603 ceramic capacitor, and 0.1 leaded capacitor."""
+C49,2.2uF,TopLayer,C0603,785,255,180,"CapacitorStandard 0603 ceramic capacitor, and 0.1 leaded capacitor."""
+D3,SDM2U20SD3-7,TopLayer,SOD323,795,40,180,"CapacitorStandard 0603 ceramic capacitor, and 0.1 leaded capacitor."""
+JP1,PINHD-1X8,TopLayer,1X08,65,410,270,"CapacitorStandard 0603 ceramic capacitor, and 0.1 leaded capacitor."""
+JP2,PINHD-1X8,TopLayer,1X08,1335,420,270,"CapacitorStandard 0603 ceramic capacitor, and 0.1 leaded capacitor."""
+JP3,PINHD-1X6,TopLayer,1X06,1185,520,270,"DiodeThese are standard reverse protection diodes and small signal diodes. SMA package can handle up to about 1A. SOD-323 can handle about 200mA. What the SOD-323 package when ordering, there are some mfgs out there that are 5-pin packages."
+L1,MPZ1608S181ATAH0,TopLayer,l0603,195,410,270,PIN HEADER
+L2,MPZ1608S181ATAH0,TopLayer,l0603,910,255,180,PIN HEADER
+L3,4.7uH/1.4A,TopLayer,1007,595,50,270,PIN HEADER
+LED1,LED-TRICOLOR,TopLayer,LED-TRICOLOR-SMD-MF,95,1185,0,InductorsBasic Inductor/Choke - 0603 and 1206. Footprints are not proven and vary greatly between part numbers.
+LED2,VSMY12850,TopLayer,LED-1206,1115,1650,270,InductorsBasic Inductor/Choke - 0603 and 1206. Footprints are not proven and vary greatly between part numbers.
+LED3,VSMY12850,TopLayer,LED-1206,285,1650,270,InductorsBasic Inductor/Choke - 0603 and 1206. Footprints are not proven and vary greatly between part numbers.
+Q1,BSS138,TopLayer,SOT23-3,135,986.97,0,Tri-Color LED SMDProven layout and schematic for triple color LED in SMD package - common anode. Spark Fun Electronics SKU : COM-07844
+Q2,Si2301BDS,TopLayer,SOT23-3,790,146.97,0,"LEDsStandard schematic elements and footprints for 5mm, 3mm, 1206, and 0603 sized LEDs. 5mm - Spark Fun Electronics SKU : COM-00529 (and others)"
+R1,10R,TopLayer,R0603,229,985.496,270,"LEDsStandard schematic elements and footprints for 5mm, 3mm, 1206, and 0603 sized LEDs. 5mm - Spark Fun Electronics SKU : COM-00529 (and others)"
+R2,10K,TopLayer,R0603,40,985,270,
+R3,4.7K,TopLayer,R0603,920,1516.496,90,
+R4,4.7K,TopLayer,R0603,891.496,1256,180,"ResistorBasic schematic elements and footprints for 0603, 1206, and PTH resistors."
+R5,100K,TopLayer,R0603,500,220,270,"ResistorBasic schematic elements and footprints for 0603, 1206, and PTH resistors."
+R6,4.7K,TopLayer,R0603,891.496,1310,180,"ResistorBasic schematic elements and footprints for 0603, 1206, and PTH resistors."
+R7,10k,TopLayer,R0603,891.496,1365,180,"ResistorBasic schematic elements and footprints for 0603, 1206, and PTH resistors."
+R9,10K,TopLayer,R0603,690,70,270,"ResistorBasic schematic elements and footprints for 0603, 1206, and PTH resistors."
+R10,453K,TopLayer,R0603,500,95,270,"ResistorBasic schematic elements and footprints for 0603, 1206, and PTH resistors."
+RN1,220R,TopLayer,EXBV8V,262.5,1185,270,"ResistorBasic schematic elements and footprints for 0603, 1206, and PTH resistors."
+RN2,10K,TopLayer,EXBV8V,1100,1220,360,"ResistorBasic schematic elements and footprints for 0603, 1206, and PTH resistors."
+RN3,10K,TopLayer,EXBV8V,1140,985,0,"ResistorBasic schematic elements and footprints for 0603, 1206, and PTH resistors."
+TF1,TF_Card,BottomLayer,TF-2,707.284,957,90,Array Chip Resistor   Source: RS Component / Phycomp
+U1,STM32H743VIT6,TopLayer,LQFP100,700,645,0,Array Chip Resistor   Source: RS Component / Phycomp
+U2,OV7725,TopLayer,CSP2-28,699.015,1410,270,Array Chip Resistor   Source: RS Component / Phycomp
+U5,TPS731XX,TopLayer,SOT23-5,1270,1345,360,
+U8,PAM2305AABADJ,TopLayer,SOT23-5,595,190,180,
+X1,MF-CON-MICROUSB-RIGHT,TopLayer,MICROUSB-RIGHT,1070,114.84,0,
+X4,S2B-PH-K-S(LF)(SN),TopLayer,JST-PH-2-THM-RA,275,250,180,
+Y1,7S-12.000MAHE-T,TopLayer,XTAL-SMD-3225_4P,234.015,660.985,270,
+,,,,,,,Library:  MF_Connectors Description: 5 Pin USB Connectors. SLD is the shield connection. Usually tied to ground through a small ferrite bead.
+,,,,,,,JST 2-Pin Connectors of various flavors SMT-RA (S2B-PH-SM4) 4UConnector #17311  SMT  (B2B-PH-SM4)  THM-RA (S2B-PH)  THM  (B2B-PH)
+,,,,,,,CrystalsVarious standard crystals. Proven footprints. Spark Fun Electronics SKU : COM-00534

@@ -1,0 +1,118 @@
+Importer Log Report
+Project : base.PrjPcb
+
+Section : Analyze Document - C:\Users\12566\Desktop\临时文件夹\OpenMV4\REF\base\base.brd
+    Analyzing data of C:\Users\12566\Desktop\临时文件夹\OpenMV4\REF\base\base.brd
+    Load settings
+    Load layers 171
+    Load Library "sfe"
+    Load Packages 10
+    Load Library "mux"
+    Load Packages 2
+    Load Library "holes"
+    Load Packages 1
+    Load Library "resistor-dil"
+    Load Packages 1
+    Load Library "pinhead"
+    Load Packages 2
+    Load Library "iofault"
+    Load Packages 1
+    Load Library "openmv"
+    Load Packages 5
+    Load Library "stm32"
+    Load Packages 1
+    Load Library "regulators"
+    Load Packages 1
+    Load Library "MF_Connectors"
+    Load Packages 1
+    Load Library "adafruit-updated"
+    Load Packages 1
+    Load Library "DF12"
+    Load Packages 1
+    Load Library "molex"
+    Load Packages 1
+    Load Library "STANDOFFS"
+    Load Packages 1
+    ERROR: Unhandled typemfgpreviewcolors
+    ERROR: Unhandled typeerrors
+EndSection
+
+Section : Analyze Document - C:\Users\12566\Desktop\临时文件夹\OpenMV4\REF\base\base.sch
+    Analyzing data of C:\Users\12566\Desktop\临时文件夹\OpenMV4\REF\base\base.sch
+    Load settings
+    Load layers 164
+    Load schematic
+    Load Libraries 17
+    Load Library "sfe"
+    Load Packages 69
+    Load Symbols 10
+    Load DeviceSets 10
+    Load Library "SparkFun"
+    Load Packages 0
+    Load Symbols 2
+    Load DeviceSets 2
+    Load Library "mux"
+    Load Packages 5
+    Load Symbols 3
+    Load DeviceSets 3
+    Load Library "iofault"
+    Load Packages 8
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "supply1"
+    Load Packages 0
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "holes"
+    Load Packages 10
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "resistor-dil"
+    Load Packages 12
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "pinhead"
+    Load Packages 4
+    Load Symbols 2
+    Load DeviceSets 2
+    Load Library "frames"
+    Load Packages 0
+    Load Symbols 2
+    Load DeviceSets 1
+    Load Library "stm32"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "supply"
+    Load Packages 0
+    Load Symbols 5
+    Load DeviceSets 5
+    Load Library "regulators"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "MF_Connectors"
+    Load Packages 2
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "adafruit-updated"
+    Load Packages 4
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "DF12"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "molex"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "STANDOFFS"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Attributes 0
+    Load Classes 1
+    Load Parts 99
+    Load Sheets 1
+EndSection

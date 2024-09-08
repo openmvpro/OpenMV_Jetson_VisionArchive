@@ -1,0 +1,26 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: openmv4_PCB.PcbDoc   2019/11/26  12:49:47
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : openmv4_PCB-RoundHoles.TXT
+ASCII SlotHoles File : openmv4_PCB-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.305mm)                                           Round             189       PTH        0.00inch (0.00mm)
+T2      24mil (0.6mm)                                             Slot              2         PTH        0.00inch (0.00mm)
+T3      26mil (0.65mm)                                            Slot              2         PTH        0.00inch (0.00mm)
+T4      32mil (0.8mm)                                             Round             2         PTH        0.00inch (0.00mm)
+T5      39mil (1mm)                                               Round             2         PTH        0.00inch (0.00mm)
+T6      40mil (1.016mm)                                           Round             22        PTH        0.00inch (0.00mm)
+T7      100mil (2.54mm)                                           Round             2         PTH        0.00inch (0.00mm)
+T8      130mil (3.3mm)                                            Round             2         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              223
+
+Two holes at same point : 1
+-----------------------
+810,545
+
+Total Processing Time (hh:mm:ss) : 00:00:00
